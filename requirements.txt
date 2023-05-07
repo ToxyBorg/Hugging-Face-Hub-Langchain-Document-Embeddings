@@ -1,0 +1,7 @@
+langchain==0.0.158
+python-dotenv==1.0.0
+pypdf==3.8.1
+huggingface_hub==0.14.1
+faiss-cpu==1.7.4
+torch==2.0.0
+pyyaml==6.0
